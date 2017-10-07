@@ -29,6 +29,7 @@
         # "security/ir.model.access.csv",
         # "templates/assets.xml",
         # "views/report_name.xml",
+        "views/vet_menu_item.xml",
         # "views/res_partner_view.xml",
         # "wizards/wizard_model_view.xml",
     ],
