@@ -21,6 +21,7 @@
     "depends": [
         "base",
         "purchase",
+        "crm",
         # "sales",
     ],
     "data": [
