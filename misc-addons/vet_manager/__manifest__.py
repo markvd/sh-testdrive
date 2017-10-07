@@ -2,7 +2,7 @@
 # Copyright 2017 West IT Solutions
 {
     "name": "Vet Manager",
-    "summary": "This module will help veterinary clinic manage ther business",
+    "summary": "This module will help veterinary clinics manage ther business",
     "version": "11.0.1.0.0",
     "category": "Uncategorized",
     # "website": "https://github.com/OCA/<repo>" or "https://github.com/OCA/<repo>/tree/<branch>/<addon>",
