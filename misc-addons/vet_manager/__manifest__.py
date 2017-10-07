@@ -8,7 +8,7 @@
     # "website": "https://github.com/OCA/<repo>" or "https://github.com/OCA/<repo>/tree/<branch>/<addon>",
     "author": "Mark van Deursen - West IT Solutions",
     "license": "AGPL-3",
-    "application": False,
+    "application": True,
     "installable": True,
     # "pre_init_hook": "pre_init_hook",
     # "post_init_hook": "post_init_hook",
