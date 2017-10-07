@@ -21,7 +21,7 @@
     "depends": [
         "base",
         "purchase",
-        "sales",
+        # "sales",
     ],
     "data": [
         # "security/some_model_security.xml",
