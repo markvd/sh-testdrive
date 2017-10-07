@@ -3,10 +3,10 @@
     <data>
 
         <!-- Top menu item -->
-        <menuitem name="Veterinarian"
+        <!-- <menuitem name="Veterinarian"
             id="menu_vet"
             web_icon="account_invoicing,static/description/icon.png"
-            sequence="40"/>
+            sequence="40"/> -->
 <?xml version="1.0" encoding="utf-8"?>
 <odoo>
     <data>
