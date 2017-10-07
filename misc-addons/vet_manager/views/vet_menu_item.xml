@@ -5,7 +5,6 @@
         <!-- Top menu item -->
         <menuitem name="Veterinarian"
             id="menu_vet"
-            <!-- groups="account.group_account_user,account.group_account_manager,account.group_account_invoice" -->
             web_icon="account_invoicing,static/description/icon.png"
             sequence="40"/>
 <?xml version="1.0" encoding="utf-8"?>
@@ -15,8 +14,6 @@
         <!-- Top menu item -->
         <menuitem name="veterinarians"
             id="menu_vets"
-            <!-- groups="account.group_account_user,account.group_account_manager,account.group_account_invoice"
-            web_icon="account_invoicing,static/description/icon.png" -->
             sequence="40"/>
 
         <record id="menu_vets" model="ir.ui.menu">
