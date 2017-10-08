@@ -2,6 +2,7 @@
 <odoo>
     <data>
         <!-- Top menu item -->
+        
         <menuitem name="Veterinarians"
             id="menu_vets"
             web_icon="vet_manager,static/description/icon.png"
