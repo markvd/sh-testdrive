@@ -33,6 +33,9 @@
         # "views/res_partner_view.xml",
         # "wizards/wizard_model_view.xml",
     ],
+    "images": [
+        "static/description/icon.png",
+    ],
     "demo": [
         # "demo/res_partner_demo.xml",
     ],
