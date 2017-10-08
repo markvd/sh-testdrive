@@ -2,8 +2,9 @@
 <odoo>
     <data>
         <!-- Top menu item -->
-        <menuitem name="veterinarians"
+        <menuitem name="Veterinarians"
             id="menu_vets"
+            web_icon="vet_mananger,static/description/icon.png"
             sequence="40"/>
 
         <record id="menu_vets" model="ir.ui.menu">
